@@ -1,6 +1,7 @@
 📦 Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
 🛒 Venda de produtos:
+
 📌 Narrativa – Produto:
 Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vendedores distintos (Terceiros);
 
