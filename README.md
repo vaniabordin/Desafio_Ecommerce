@@ -41,5 +41,6 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 • 🚚 Entrega – Possui status e código de rastreio;
 
 Resultado:
-[Projeto E-commerce](https://github.com/vaniabordin/Desafio_Ecommerce/blob/main/Projeto-Ecommerce.png)
+
+[Projeto E-commerce](https://github.com/vaniabordin/Desafio_Ecommerce/blob/main/Projeto_E-commerce.png) 
 
